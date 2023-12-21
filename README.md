@@ -1,0 +1,1 @@
+# spock-v3.0-gradlekts
