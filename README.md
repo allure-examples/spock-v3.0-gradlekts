@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with spock, groovy v3.0 and Gradle (Kotlin)
+> Example of Allure Report usage with spock, groovy 3.0 and Gradle (Kotlin)
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
@@ -12,4 +12,4 @@
 
 ---
 
-The generated report is available here: [https://allure-examples.github.io/spock-v3.0-gradlekts](https://allure-examples.github.io/spock-v3.0-gradlekts/)
+The generated report is available here: [https://allure-examples.github.io/spock-groovy-3.0-gradlekts](https://allure-examples.github.io/spock-groovy-3.0-gradlekts/)
